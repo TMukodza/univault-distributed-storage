@@ -7,7 +7,7 @@
 | Sheunopa Chitauro | N02645487G | SheunopaChitauro | designer and programmer |
 |Member 2 |N02649597S |shalomc7 | group leader and writer |
 | Solomon Chikwavarara | n02648532w | solomonchikwavarara25-cloud| Project manager,System Testing and evaluation |
-| Member 4 | N02655625D | Julius29| Build |
+| Member 4 | N02655625D | Kachafa Julius|designer and programmer|
 | Bright Mudimu | N02651783C | brightm14 | group leader, writer and presenter |
 | Member 6 | n02640892x |  n02640892x | Presenter |
 | Mbaliyethu B Ncube | N02421972V | Mbaliyethu05 |  Present findings 
