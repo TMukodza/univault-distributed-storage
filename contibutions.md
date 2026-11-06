@@ -4,7 +4,7 @@
 
 | Member | Student Number | GitHub Username | Role |
 |---|---|---|---|
-| Member 1 | N02645487G | SheunopaChitauro | build |
+| Sheunopa Chitauro | N02645487G | SheunopaChitauro | designer and programmer |
 |Member 2 |N02649597S |shalomc7 | group leader and writer |
 | Solomon Chikwavarara | n02648532w | solomonchikwavarara25-cloud| Project manager,System Testing and evaluation |
 | Member 4 | N02655625D | Julius29| Build |
