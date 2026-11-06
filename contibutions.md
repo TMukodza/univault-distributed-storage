@@ -4,7 +4,7 @@
 
 | Member | Student Number | GitHub Username | Role |
 |---|---|---|---|
-| Member 1 | To be filled | To be filled | To be filled |
+| Member 1 | N02645487G | SheunopaChitauro | build |
 | Member 2 | To be filled | To be filled | To be filled |
 | Member 3 | To be filled | To be filled | To be filled |
 | Member 4 | To be filled | To be filled | To be filled |
