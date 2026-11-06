@@ -10,8 +10,7 @@
 | Kachafa Julius| N02655625D | Julius29|designer and programmer|
 | Bright Mudimu | N02651783C | brightm14 | group leader, writer and presenter |
 | Member 6 | n02640892x |  n02640892x | Presenter |
-| Mbaliyethu B Ncube | N02421972V | Mbaliyethu05 |  Present findings 
-|
+| Mbaliyethu B Ncube | N02421972V | Mbaliyethu05 |  Present findings |
 | Malvin Makiwa| n02654040x | Malvin45 | Build |
 | Member 10| To be filled | To be filled | To be filled |
 | Member 11| To be filled | To be filled | To be filled |
