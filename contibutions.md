@@ -7,7 +7,7 @@
 | Member 1 | N02645487G | SheunopaChitauro | build |
 |Member 2 |N02649597S |shalomc7 | group leader and writer |
 | Member 3 | n02648532w | solomonchikwavarara25-cloud| Project manager,System Testing and evaluation |
-| Member 4 | To be filled | To be filled | To be filled |
+| Member 4 | N02655625D | Kachafa Julius| Build |
 | Member 5 | To be filled | To be filled | To be filled |
 | Member 6 | To be filled | To be filled | To be filled |
 | Member 7 | To be filled | To be filled | To be filled |
