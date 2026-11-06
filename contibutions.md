@@ -6,7 +6,7 @@
 |---|---|---|---|
 | Member 1 | N02645487G | SheunopaChitauro | build |
 |Member 2 |N02649597S |shalomc7 | group leader and writer |
-| Member 3 | n02648532w | solomonchikwavarara25-cloud| Project manager,System Testing and evaluation |
+| Solomon Chikwavarara | n02648532w | solomonchikwavarara25-cloud| Project manager,System Testing and evaluation |
 | Member 4 | N02655625D | Julius29| Build |
 | Bright Mudimu | N02651783C | brightm14 | group leader, writer and presenter |
 | Member 6 | n02640892x |  n02640892x | Presenter |
