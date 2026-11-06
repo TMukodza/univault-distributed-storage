@@ -8,7 +8,7 @@
 |Member 2 |N02649597S |shalomc7 | group leader and writer |
 | Member 3 | n02648532w | solomonchikwavarara25-cloud| Project manager,System Testing and evaluation |
 | Member 4 | N02655625D | Julius29| Build |
-| Member 5 | To be filled | To be filled | To be filled |
+| Member 5 | N02651783C | brightm14 | group leader, writer and presenter |
 | Member 6 | n02640892x |  n02640892x | Presenter |
 | Member 7 | N02421972V | Mbaliyethu05 |  Present findings 
 |
